@@ -5,6 +5,8 @@
 
 Here are some ideas to get you started:
 
+-->
+
 ## Talking about Personal Stuff:
 - 🔧 I’m currently working with JS, TS, AWS, etc.
 - 🚀 I’m currently exploring ML, Gen AI, LLMs, etc.
@@ -34,5 +36,3 @@ Here are some ideas to get you started:
 - ⚡ [GitHub Stats](https://github.com/username)
 - 🍕 [GitHub Streaks](https://github.com/username)
 - 🛠️ [Things I use to get stuff done](https://github.com/username)
-
--->
