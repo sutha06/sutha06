@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 -->
 
-## Talking about Personal Stuff:
+## What About Me:
 - 🔧 I’m currently learning Google Chrome Extension Development.
 - 🚀 I’m exploring new tools and frameworks to expand my skillset.
 - 💬 Ask me anything [here](mailto:suthakaran.siva0601@gmail.com)! I am happy to help.
