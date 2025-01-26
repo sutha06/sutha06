@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 🚀 I’m exploring new tools and frameworks to expand my skillset.
 - 💬 Ask me anything [here](mailto:suthakaran.siva0601@gmail.com)! I am happy to help.
 - 🤓 Fun fact: I like wendys and pokemon cards.
-- 📫 Reach me out: [suthakaran.siva0601@gmail.com](mailto:suthakaran.siva0601@gmail.com).
+- 📫 Reach out to me: [suthakaran.siva0601@gmail.com](mailto:suthakaran.siva0601@gmail.com).
 
 ## What I Enjoy about Technology:
 - 💻 I enjoy learning new topics and dicussing theoretical concepts.
