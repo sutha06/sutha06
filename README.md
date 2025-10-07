@@ -7,17 +7,7 @@ Here are some ideas to get you started:
 
 -->
 
-## What About Me:
-- 🔧 I’m currently learning Google Chrome Extension Development.
-- 🚀 I’m exploring new tools and frameworks to expand my skillset.
-- 💬 Ask me anything [here](mailto:suthakaran.siva0601@gmail.com)! I am happy to help.
-- 🤓 Fun fact: I like wendys and pokemon cards.
-- 📫 Reach out to me: [suthakaran.siva0601@gmail.com](mailto:suthakaran.siva0601@gmail.com).
-
-## What I Enjoy about Technology:
-- 💻 I enjoy learning new topics and dicussing theoretical concepts.
-- 📚 Learning new software and sharing knowledge with the community.
-- ⚡ exploring new tools and meeting with people to build and create solutions 
+ 
 
 ## Languages and Tools:
 <p>
