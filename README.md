@@ -1,4 +1,4 @@
-##My name's Sutha 👋
+My name's Sutha 👋
 
 <!--
 **sutha06/sutha06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
